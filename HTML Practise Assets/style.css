@@ -176,7 +176,7 @@ footer {
 
 
 /* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
-@media {max-width 728px} {
+@media (max-width: 728px) {
 .row {
     flex-direction: column;
 }
@@ -218,7 +218,7 @@ ul {
     width: 100%;
 }
 
-#dicord .section__description {
+#discord .section__description {
     flex-direction: column-reverse;
 }
 
